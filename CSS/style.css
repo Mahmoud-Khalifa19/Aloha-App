@@ -426,7 +426,6 @@ nav ul a:hover {
     font-size: 0.71428571428rem;
 }
 
-.carousel 
 
 .item {
 	display: flex;
@@ -590,11 +589,7 @@ address {
     width: 100%;
 	 }
 
-
 }
-
-
-
 
 
 @media all and (min-width: 600px) {
@@ -609,7 +604,6 @@ address {
 	width: 50%;
 }
 
-}
 
 /* Top Nav Bar */
 
@@ -748,6 +742,8 @@ address {
 	color: #fff;
 }  
 
+}
+
 @media all and (min-width: 1240px) {
 	.banner img {
 		width: 10.625rem;
@@ -812,7 +808,6 @@ address {
 	}
 	
 	
-
 	 .flickity-enabled.is-draggable .flickity-viewport {
 		cursor: move;
 		cursor: -webkit-grab;
