@@ -246,7 +246,7 @@ nav ul a:hover {
 
 .banner{
 	background-image: linear-gradient(rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.2)), 
-	url(img/banner-girl.png) no-repeat center 60px, url(img/flower-bkgd.jpg) no-repeat center bottom;
+	url("../images/banner-girl.png") no-repeat center 60px, url("../images/flower-bkgd.jpg") no-repeat center bottom;
 	background-size: cover, 40%, cover;
   justify-content: center;	
 	max-width: 100%;
