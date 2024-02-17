@@ -334,7 +334,7 @@ nav ul a:hover {
 }
 .mens {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/mens-category.jpg) no-repeat;
+	url(../images/mens-category.jpg) no-repeat;
 	border-bottom: 3px solid white;
 	width: 100vw;
 	height: 50vw;
@@ -342,7 +342,7 @@ nav ul a:hover {
 	}
 .trends {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/trends-category.jpg)no-repeat;
+	url(../images/trends-category.jpg)no-repeat;
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	border-right: 3px solid white;
@@ -351,7 +351,7 @@ nav ul a:hover {
 	}
 .glasses {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/glasses-category.jpg) no-repeat;
+	url(../images/glasses-category.jpg) no-repeat;
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	border-left: 3px solid white;
@@ -360,7 +360,7 @@ nav ul a:hover {
 }
 .sale {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/sale-category.jpg) no-repeat;
+	url(../images/sale-category.jpg) no-repeat;
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	border-right: 3px solid white;
@@ -369,7 +369,7 @@ nav ul a:hover {
 }
 .bags {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/bags-category.jpg) no-repeat;
+	url(../images/bags-category.jpg) no-repeat;
 	border-top: 3px solid white;
 	border-bottom: 3px solid white;
 	border-left: 3px solid white;
@@ -379,7 +379,7 @@ nav ul a:hover {
 }
 .womens {
 	background: linear-gradient(0deg, rgba(61,61,61,0.3) 0%, rgba(61, 61, 61, 0.3) 100%),
-	url(images/womens-category.jpg) no-repeat;
+	url(../images/womens-category.jpg) no-repeat;
 	border-top: 3px solid white;
 	width: 100vw;
 	height: 50vw;
